@@ -1,0 +1,12 @@
+C:\Users\MARCOS\source\repos\DowloadDeVideos\DowloadDeVideos\bin\Debug\DowloadDeVideos.exe.config
+C:\Users\MARCOS\source\repos\DowloadDeVideos\DowloadDeVideos\bin\Debug\DowloadDeVideos.exe
+C:\Users\MARCOS\source\repos\DowloadDeVideos\DowloadDeVideos\bin\Debug\DowloadDeVideos.pdb
+C:\Users\MARCOS\source\repos\DowloadDeVideos\DowloadDeVideos\bin\Debug\libvideo.dll
+C:\Users\MARCOS\source\repos\DowloadDeVideos\DowloadDeVideos\obj\Debug\DowloadDeVideos.csprojResolveAssemblyReference.cache
+C:\Users\MARCOS\source\repos\DowloadDeVideos\DowloadDeVideos\obj\Debug\DowloadDeVideos.Form1.resources
+C:\Users\MARCOS\source\repos\DowloadDeVideos\DowloadDeVideos\obj\Debug\DowloadDeVideos.Properties.Resources.resources
+C:\Users\MARCOS\source\repos\DowloadDeVideos\DowloadDeVideos\obj\Debug\DowloadDeVideos.csproj.GenerateResource.cache
+C:\Users\MARCOS\source\repos\DowloadDeVideos\DowloadDeVideos\obj\Debug\DowloadDeVideos.csproj.CoreCompileInputs.cache
+C:\Users\MARCOS\source\repos\DowloadDeVideos\DowloadDeVideos\obj\Debug\DowloadDeVideos.csproj.CopyComplete
+C:\Users\MARCOS\source\repos\DowloadDeVideos\DowloadDeVideos\obj\Debug\DowloadDeVideos.exe
+C:\Users\MARCOS\source\repos\DowloadDeVideos\DowloadDeVideos\obj\Debug\DowloadDeVideos.pdb
